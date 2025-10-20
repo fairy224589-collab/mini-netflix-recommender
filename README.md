@@ -13,3 +13,6 @@ Python, scikit-learn, pandas
 1. Clone the repo
 2. Open in Jupyter Notebook or Google Colab
 3. Run cells sequentially
+### Screenshot
+![Mini Netflix Recommender]
+(screenshot1.png)
